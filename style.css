@@ -398,9 +398,9 @@ p {
 /* stcicky css */
 
 .header_area.sticky {
-    background-color: #884bdf;
-    -webkit-box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    -webkit-box-shadow: 0 4px 20px rgba(80,101,157,0.2);
+            box-shadow: 0 4px 20px rgba(80,101,157,0.2);
     height: 70px;
     position: fixed;
     top: 0;
