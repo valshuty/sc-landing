@@ -335,7 +335,7 @@ p {
 .menu_area .navbar-brand {
     font-size: 72px;
     font-weight: 700;
-    color: #fff;
+    color: #2E2E2E;
     margin: 0;
     line-height: 1;
     padding: 0;
@@ -354,7 +354,7 @@ p {
 }
 
 .menu_area #nav .nav-link {
-    color: #fff;
+    color: #2E2E2E;
     display: block;
     font-size: 16px;
     font-weight: 500;
@@ -367,7 +367,7 @@ p {
 
 
 .menu_area nav ul li > a:hover {
-    color: #fb397d;
+    color: #50659D;
 }
 
 .sing-up-button {
@@ -375,10 +375,10 @@ p {
 }
 
 .sing-up-button > a {
-    color: #fff;
+    color: #34B3F5;
     font-weight: 500;
     display: inline-block;
-    border: 2px solid #a883e9;
+    border: 2px solid #34B3F5;
     height: 50px;
     min-width: 178px;
     line-height: 46px;
