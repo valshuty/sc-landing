@@ -223,7 +223,7 @@ li {
 p {
     color: #726a84;
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 500;
     margin-top: 0;
 }
 
@@ -232,7 +232,7 @@ p {
 }
 
 .section-heading > h2 {
-    font-weight: 300;
+    font-weight: 700;
     color: #5b32b4;
     font-size: 48px;
     margin: 0;
@@ -754,8 +754,8 @@ p {
     background: -webkit-gradient(linear, right top, left top, from(#7873ed), to(#a865e1));
     background: -o-linear-gradient(right, #7873ed, #a865e1);
     background: linear-gradient(to left, #7873ed, #a865e1);
-    padding: 180px 0 80px 0;
-    top: -100px;
+    padding: 80px 0 80px 0;
+    /* top: -100px; */
 }
 
 
@@ -785,7 +785,8 @@ p {
     color: #ffffff;
     font-size: 60px;
     margin-bottom: 0;
-    line-height: 1;
+    line-height: 0.9;
+    font-weight:400;
 }
 
 .cool-facts-content > p {
