@@ -485,6 +485,11 @@ p {
     z-index: 3;
 }
 
+.wellcome-heading > h4 {
+  color:#fff;
+  max-width:640px;
+}
+
 .get-start-area .email {
     background: #fff;
     height: 50px;
@@ -535,7 +540,7 @@ p {
 }
 
 .get-start-area .submit:hover {
-    background: #6f52e5;
+    background: #92BD05;
     color: #fff;
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
